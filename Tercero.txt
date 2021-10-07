@@ -1,0 +1,6 @@
+este archivo
+es creado 
+desde la rama
+correo
+
+luego se integrara a la master
